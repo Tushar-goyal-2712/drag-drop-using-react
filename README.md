@@ -77,7 +77,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ## 📍 Screenshots
 
-![](https://github.com/Tushar-goyal-2712/Panda-Login-Page/blob/fc7b22244fe74616b125d07440f0b9841589ae61/Screenshots/design.png)
+![](https://github.com/Tushar-goyal-2712/drag-drop-using-react/blob/0b8769dd97fb6b35c81dff31244ac92979730f1c/Screenshots/design.png)
 
 ## 📍 Deployment
 
